@@ -1,16 +1,35 @@
-## Hi there 👋
+<div id="header" align="center"> 
+    <h1>Hi there, I'm Dasha</h1>
+    <h3>Golang developer from Saint-Petersburg</h3>
+</div>
 
-<!--
-**bebe-pirat/bebe-pirat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About me
 
-Here are some ideas to get you started:
+- 🎓 19 y.o. Golang developer  
+- 🚀 Focused on backend development  
+- 🔍 Looking for a intern Golang developer position
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+Also worked with:  
+- SQL  
+- Git / GitHub  
+- Basic Linux
+
+## 📊 GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bebe-pirat&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bebe-pirat&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bebe-pirat&theme=github)
+
+## 📌 Projects
+
+🔗 [Repository link](https://github.com/bebe-pirat/golang-edugame)
+
+## 📫 Contacts
+
+- Telegram: @Lileynyi
+- Email: dara.glushkova@gmail.com
