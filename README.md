@@ -29,6 +29,8 @@ Also worked with:
 
 🔗 [Repository link](https://github.com/bebe-pirat/golang-edugame)
 
+🔗 [Repository link](https://github.com/bebe-pirat/golang_subscriptions_api)
+
 ## 📫 Contacts
 
 - Telegram: @Lileynyi
