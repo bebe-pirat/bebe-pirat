@@ -27,9 +27,11 @@ Also worked with:
 
 ## 📌 Projects
 
-🔗 [Repository link](https://github.com/bebe-pirat/golang-edugame)
+🔗 [Repository link](https://github.com/bebe-pirat/MathTrainer)
+Math trainer for students of primary schools
 
 🔗 [Repository link](https://github.com/bebe-pirat/golang_subscriptions_api)
+REST API for subscriptions
 
 ## 📫 Contacts
 
